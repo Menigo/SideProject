@@ -1,0 +1,5 @@
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\publish\BMI.exe
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\publish\BMI.dll
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\publish\BMI.deps.json
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\publish\BMI.runtimeconfig.json
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\publish\BMI.pdb

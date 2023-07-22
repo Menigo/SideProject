@@ -1,0 +1,17 @@
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\BMI.exe
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\BMI.deps.json
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\BMI.runtimeconfig.json
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\BMI.dll
+D:\UnityProject\OopShare\SideProject\BMI\BMI\bin\Release\net6.0-windows\BMI.pdb
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.csproj.AssemblyReference.cache
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.Form1.resources
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.csproj.GenerateResource.cache
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.AssemblyInfoInputs.cache
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.AssemblyInfo.cs
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.csproj.CoreCompileInputs.cache
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.dll
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\refint\BMI.dll
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.pdb
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\BMI.genruntimeconfig.cache
+D:\UnityProject\OopShare\SideProject\BMI\BMI\obj\Release\net6.0-windows\ref\BMI.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "koPs2QkfGKzkIECLXV4ExIqnnEysqMY6dSvoAKw2dtuNRqI7ed1J1YvLXFzM8CKDmqQTjR4tFSEXLNXi7oDNuQ==",
+  "success": true,
+  "projectFilePath": "D:\\UnityProject\\OopShare\\SideProject\\BMI\\BMI\\BMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.4\\microsoft.netcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.4\\microsoft.aspnetcore.app.runtime.win-x64.6.0.4.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.4\\microsoft.netcore.app.crossgen2.win-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
