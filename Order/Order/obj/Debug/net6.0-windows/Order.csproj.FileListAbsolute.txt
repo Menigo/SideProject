@@ -1,0 +1,17 @@
+E:\GitHub\SideProject\Order\Order\bin\Debug\net6.0-windows\Order.exe
+E:\GitHub\SideProject\Order\Order\bin\Debug\net6.0-windows\Order.deps.json
+E:\GitHub\SideProject\Order\Order\bin\Debug\net6.0-windows\Order.runtimeconfig.json
+E:\GitHub\SideProject\Order\Order\bin\Debug\net6.0-windows\Order.dll
+E:\GitHub\SideProject\Order\Order\bin\Debug\net6.0-windows\Order.pdb
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.csproj.AssemblyReference.cache
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.Form1.resources
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.csproj.GenerateResource.cache
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.AssemblyInfoInputs.cache
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.AssemblyInfo.cs
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.csproj.CoreCompileInputs.cache
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.dll
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\refint\Order.dll
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.pdb
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.genruntimeconfig.cache
+E:\GitHub\SideProject\Order\Order\obj\Debug\net6.0-windows\ref\Order.dll
