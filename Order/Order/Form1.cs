@@ -2,11 +2,13 @@ namespace Order
 {
     public partial class Form1 : Form
     {
-        string[] listStr = {"魯肉飯 25元","控肉飯 50元", "蛋炒飯 40元", "貢丸湯 30元", "味噌湯 20元", "燙青菜 30元", "滷大腸 80元" };
+        string[] listStr = {"魯肉飯 25 元","控肉飯 50 元", "蛋炒飯 40 元", "貢丸湯 30 元", "味噌湯 20 元", "燙青菜 30 元", "滷大腸 80 元" };
         Point orginCheckBox = new Point(40, 50);
         int nextY = 0;
         int nextX = 0;
         Dictionary<CheckBox, TextBox> list = new Dictionary<CheckBox, TextBox>();
+        Label label = new Label();
+        Button button = new Button();
 
         public Form1()
         {
@@ -27,6 +29,7 @@ namespace Order
                 nextY += 30;
 
                 TextBox textBox = new TextBox();
+                textBox.Enabled = false;
                 textBox.Text = "0";
                 textBox.Location = new Point(orginCheckBox.X+ nextX, orginCheckBox.Y + nextY);
                 textBox.Size = new Size(checkBox.Width,textBox.Height);
@@ -42,18 +45,56 @@ namespace Order
 
             }
 
-            Button button = new Button();
+            
             button.AutoSize = true;
             button.Text = "結單";
             button.Location = new Point(40, 380);
+            button.Click += CheckOut;
             this.Controls.Add(button);
             this.AutoSize = true;
+
+            label.Text = "總和:";
+            label.AutoSize = true;
+            label.Location = new Point(150, 380);
+            this.Controls.Add(label);
+
         }
 
 
         private void CheckMenu(object sender, EventArgs e)
         {
-            list.ContainsKey((CheckBox)sender);
+            CheckBox currentCheckBox = (CheckBox)sender;
+            if (list.ContainsKey(currentCheckBox)){
+                TextBox currentTextBox = list[(CheckBox)sender];
+
+                if (currentCheckBox.Checked)
+                {
+                    currentTextBox.Enabled = true;
+                    currentTextBox.Text = "1";
+                }
+                else
+                {
+                    currentTextBox.Enabled = false;
+                    currentTextBox.Text = "0";
+                }
+                
+            }
+
+        }
+
+        private void CheckOut(object sender, EventArgs e)
+        {
+            int sum = 0;
+            foreach (CheckBox checkBox in list.Keys)
+            {
+                if (checkBox.Checked)
+                {
+                    int count = Convert.ToInt32(list[checkBox].Text);
+                    int money = Convert.ToInt32(checkBox.Text.Split(' ')[1]);
+                    sum += count*money;
+                }
+            }
+            label.Text = "總和:"+sum.ToString();
         }
     }
 }
