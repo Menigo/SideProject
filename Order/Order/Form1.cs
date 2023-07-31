@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace Order
 {
     public partial class Form1 : Form
@@ -53,11 +55,6 @@ namespace Order
             this.Controls.Add(button);
             this.AutoSize = true;
 
-            label.Text = "總和:";
-            label.AutoSize = true;
-            label.Location = new Point(150, 380);
-            this.Controls.Add(label);
-
         }
 
 
@@ -85,6 +82,7 @@ namespace Order
         private void CheckOut(object sender, EventArgs e)
         {
             int sum = 0;
+            StringBuilder stringBuilder = new StringBuilder();
             foreach (CheckBox checkBox in list.Keys)
             {
                 if (checkBox.Checked)
@@ -92,9 +90,19 @@ namespace Order
                     int count = Convert.ToInt32(list[checkBox].Text);
                     int money = Convert.ToInt32(checkBox.Text.Split(' ')[1]);
                     sum += count*money;
+                    stringBuilder.AppendLine(checkBox.Text.Split(' ')[0] + "x" + count);
                 }
             }
-            label.Text = "總和:"+sum.ToString();
+
+            stringBuilder.AppendLine("總共 : "+ sum.ToString()+"元");
+
+            Form2 form2 = new Form2(stringBuilder.ToString());
+            form2.ShowDialog();
+            //label.Text = "總和:"+sum.ToString();
+            foreach (CheckBox checkBox in list.Keys)
+            {
+                checkBox.Checked = false;
+            }
         }
     }
 }

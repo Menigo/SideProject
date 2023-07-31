@@ -32,3 +32,4 @@ C:\Users\ROG-Slacker\Desktop\SideProject\Order\Order\obj\Debug\net6.0-windows\Or
 C:\Users\ROG-Slacker\Desktop\SideProject\Order\Order\obj\Debug\net6.0-windows\ref\Order.dll
 C:\Users\ROG-Slacker\Desktop\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.pdb
 C:\Users\ROG-Slacker\Desktop\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.genruntimeconfig.cache
+C:\Users\ROG-Slacker\Desktop\SideProject\Order\Order\obj\Debug\net6.0-windows\Order.Form2.resources
