@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "cyopen": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^10.3.0",
+    "cypress-commands": "^3.0.0",
+    "cypress-downloadfile": "^1.2.2",
+    "pngjs": "^6.0.0",
+    "tesseract.js": "^2.1.5",
+    "vue": "^3.2.31",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "cypress-wait-until": "^1.7.2"
+  }
+}
