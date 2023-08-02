@@ -1,0 +1,2 @@
+C:\Users\USER\Desktop\ControlWindows\ControlWindows\bin\Release\net6.0-windows\publish\win-x64\ControlWindows.pdb
+C:\Users\USER\Desktop\ControlWindows\ControlWindows\bin\Release\net6.0-windows\publish\win-x64\ControlWindows.exe

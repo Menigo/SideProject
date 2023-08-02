@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QH7AGArfRYYVzQGseUANmSP/Q7SvGRREe4DF49zXvNdiWRBSnQExcY8eVovdTm/VBH5l0ujpig1ZnbKFWW23XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG-Slacker\\Desktop\\ControlWindows\\ControlWindows\\ControlWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG-Slacker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\ROG-Slacker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\ROG-Slacker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
