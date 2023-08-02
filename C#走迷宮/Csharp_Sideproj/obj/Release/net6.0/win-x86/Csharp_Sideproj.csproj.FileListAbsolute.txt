@@ -1,0 +1,14 @@
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\Csharp_Sideproj.exe
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\Csharp_Sideproj.deps.json
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\Csharp_Sideproj.runtimeconfig.json
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\Csharp_Sideproj.dll
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\ref\Csharp_Sideproj.dll
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\win-x86\Csharp_Sideproj.pdb
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.AssemblyInfoInputs.cache
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.AssemblyInfo.cs
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.csproj.CoreCompileInputs.cache
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.dll
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\ref\Csharp_Sideproj.dll
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.pdb
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\obj\Release\net6.0\win-x86\Csharp_Sideproj.genruntimeconfig.cache

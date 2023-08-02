@@ -1,0 +1,2 @@
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\publish\win-x86\Csharp_Sideproj.pdb
+C:\Users\ROG-Slacker\Desktop\Csharp_Sideproj\bin\Release\net6.0\publish\win-x86\Csharp_Sideproj.exe
